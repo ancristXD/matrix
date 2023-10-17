@@ -1,2 +1,2 @@
 # matrix
-código matrix CMD
+código matrix looping infinite CMD
