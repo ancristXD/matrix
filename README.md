@@ -1,2 +1,2 @@
 # matrix
-código matriz CMD
+código matrix CMD
